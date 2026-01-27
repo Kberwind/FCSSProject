@@ -1,0 +1,2 @@
+Run the Jupyter Notebook first: data preparation, VADER sentiment analysis, create CSV data files for analysis in R, create charts with raw data
+Run the R script second: Two-way ANOVA opinion score by candidate and measurment with post-hoc testing, Two-way ANOVA Twitter sentiment by candidate and state with post-hoc testing
